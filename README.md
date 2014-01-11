@@ -1,4 +1,20 @@
-act-rest-api
-============
 
-The ACT, Inc. REST API is designed to be a Level 3 RESTful API in the Richardson Maturity Model.
+
+# act-rest-api
+
+
+
+## Usage
+
+
+
+## Developing
+
+
+
+### Tools
+
+Created with [Nodeclipse](https://github.com/Nodeclipse/nodeclipse-1)
+ ([Eclipse Marketplace](http://marketplace.eclipse.org/content/nodeclipse), [site](http://www.nodeclipse.org))   
+
+Nodeclipse is free open-source project that grows with your contributions.
