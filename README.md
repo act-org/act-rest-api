@@ -1,4 +1,4 @@
-# act-rest-api [ ![Codeship Status for act-org/act-rest-api](https://www.codeship.io/projects/5c9b72d0-5d6d-0131-b277-0261d5c39723/status?branch=master)](https://www.codeship.io/projects/11986) [![Build Status](https://travis-ci.org/spolyak/act-standards-server.png?branch=master)](https://travis-ci.org/spolyak/act-standards-server)
+# act-rest-api [ ![Codeship Status for act-org/act-rest-api](https://www.codeship.io/projects/5c9b72d0-5d6d-0131-b277-0261d5c39723/status?branch=master)](https://www.codeship.io/projects/11986) [![Build Status](https://travis-ci.org/act-org/act-rest-api.png?branch=master)](https://travis-ci.org/act-org/act-rest-api)
 
 ## Usage
 
