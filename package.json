@@ -8,9 +8,8 @@
   },
   "dependencies": {
     "express": "~3.3.4",
-    "express-resource": "*",
     "jade": "*",
-    "mongoose": "*"
+    "mers": "*"
   },
   "engines": {
 	    "node": "0.10.x",
