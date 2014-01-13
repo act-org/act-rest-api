@@ -5,6 +5,7 @@ block content
 	p: a(href="https://github.com/act-org/act-rest-api") source
 	p API listing 
 		ul
+			li: a(href="#{apiContext}learningObjectives") #{apiContext}learningObjectives (GET, POST)
+			li: a(href="#{apiContext}learningObjectives/1") #{apiContext}learningObjectives/{id} (GET, PUT, DELETE)
 			li: a(href="#{apiContext}students") #{apiContext}students (GET, POST)
 			li: a(href="#{apiContext}students/1") #{apiContext}students/{id} (GET, PUT, DELETE)
-			li: a(href="#{apiContext}students/finder/findNameLike/John") #{apiContext}students/finder/findNameLike/{name} (GET)
