@@ -9,7 +9,7 @@
 
 ## Developing
 
-* Sample student REST API
+* Sample REST API
 
 ### Tools
 
