@@ -2,9 +2,10 @@
 
 ## Usage
 
+* /api/rest/v0.1/learningObjectives (GET, POST)
+* /api/rest/v0.1/learningObjectives/{id} (GET, PUT, DELETE)
 * /api/rest/v0.1/students (GET, POST)
 * /api/rest/v0.1/students/{id} (GET, PUT, DELETE)
-* /api/rest/v0.1/students/finder/findNameLike/{name} (GET)
 
 ## Developing
 
