@@ -6,7 +6,7 @@ exports.list = function(req, res) {
 
 	StudentsModel.find(function(err, students) {
 		if (!err) {
-			var jwt = req.headers['X-JWT-Assertion'];
+			var jwt = req.headers['x-jwt-assertion'];
 			console.log(req.headers);
 			return res.status(200).send(students + jwt);
 		} else {
