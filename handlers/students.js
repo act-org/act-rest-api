@@ -8,7 +8,12 @@ exports.list = function(req, res) {
 		if (!err) {
 			var jwt = req.headers['x-jwt-assertion'];
 			console.log(req.headers);
-			return res.status(200).send(students + jwt);
+			if(jwt) {
+				return res.status(200).send(students + new Buffer(jwt, 'base64'));				
+			} else {
+				return res.status(200).send(students);
+			}
+
 		} else {
 			return res.status(500).send(err);
 		}
